@@ -1,8 +1,7 @@
 # almira-training360-testers-git
 Test repo for learning GIT.
 
-## Goals
+## Goald
 * Learn GIT
 * Adopt a dog
 * Plant a tree
-* Change the world
