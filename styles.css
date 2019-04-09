@@ -1,0 +1,10 @@
+h1 {
+	text-align: center;
+	color: blue;
+	font-style: italic;
+}
+
+p {
+	border: 5px solid yellow;
+	padding: 16px
+}
